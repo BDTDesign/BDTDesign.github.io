@@ -196,7 +196,7 @@ html {
 
 body {
     background: #fff;
-    color: #000;
+    color: #fff;
     font-family: 'Roboto', sans-serif;;
     height: var(--100vh);
     opacity: 0;
