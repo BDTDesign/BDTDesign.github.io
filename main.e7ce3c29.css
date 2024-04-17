@@ -8,7 +8,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
+    font: 'Roboto', sans-serif;
     vertical-align: baseline
 }
 
@@ -31,7 +31,7 @@ button {
     border: none;
     color: inherit;
     cursor: pointer;
-    font: inherit;
+    font: 'Roboto', sans-serif;;
     outline: none;
     padding: 0
 }
@@ -197,7 +197,7 @@ html {
 body {
     background: #fff;
     color: #000;
-    font-family: Helvetica Neue;
+    font-family: 'Roboto', sans-serif;;
     height: var(--100vh);
     opacity: 0;
     overflow: hidden;
@@ -217,14 +217,14 @@ body.loaded {
 
 @font-face {
     font-display: swap;
-    font-family: MFred;
+    font-family: 'Roboto', sans-serif;;
     font-style: normal;
     src: url(/assets/mfred.fe7e7efe.woff2) format("woff2"),url(/assets/mfred.76b12196.woff) format("woff")
 }
 
 @font-face {
     font-display: swap;
-    font-family: Helvetica Neue;
+    font-family: 'Roboto', sans-serif;;
     font-style: normal;
     font-weight: 400;
     src: url(/assets/helvetica-neue.cd7c92d0.woff2) format("woff2"),url(/assets/helvetica-neue.fb13112e.woff) format("woff")
@@ -306,7 +306,7 @@ body.loaded {
 }
 
 .about__content h1 {
-    font: 10rem MFred;
+    font: 10rem 'Roboto', sans-serif;;
     letter-spacing: -.05rem;
     line-height: 1;
     margin: 0 auto 2.5rem;
@@ -882,7 +882,7 @@ body.loaded {
 }
 
 .home__link {
-    font: 2.4rem MFred;
+    font: 2.4rem 'Roboto', sans-serif;;
     letter-spacing: .1rem;
     margin-top: 1rem;
     position: absolute;
@@ -1083,7 +1083,7 @@ body.loaded {
 }
 
 .project__sections__header__title {
-    font: 3rem MFred;
+    font: 3rem 'Roboto', sans-serif;;
     letter-spacing: -.05rem;
     overflow: hidden
 }
@@ -1150,7 +1150,7 @@ body.loaded {
 }
 
 .project__sections__content__description h1 {
-    font: 10rem MFred;
+    font: 10rem 'Roboto', sans-serif;;
     letter-spacing: -.05rem;
     line-height: 1;
     margin: 0 auto 2.5rem;
