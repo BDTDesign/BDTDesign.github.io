@@ -235,7 +235,7 @@ body.loaded {
 }
 
 .about__title {
-    font: 3rem MFred;
+    font: 3rem 'Roboto', sans-serif;
     left: 10rem;
     letter-spacing: .1rem;
     overflow: hidden;
