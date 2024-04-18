@@ -8,7 +8,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: 'Roboto', sans-serif;
+    font: "Roboto", sans-serif;
     vertical-align: baseline
 }
 
@@ -31,7 +31,7 @@ button {
     border: none;
     color: inherit;
     cursor: pointer;
-    font: 'Roboto', sans-serif;;
+    font: "Roboto", sans-serif;;
     outline: none;
     padding: 0
 }
@@ -197,7 +197,7 @@ html {
 body {
     background: #fff;
     color: #fff;
-    font-family: 'Roboto', sans-serif;;
+    font-family: "Roboto", sans-serif;;
     height: var(--100vh);
     opacity: 0;
     overflow: hidden;
@@ -217,14 +217,14 @@ body.loaded {
 
 @font-face {
     font-display: swap;
-    font-family: 'Roboto', sans-serif;;
+    font-family: "Roboto", sans-serif;;
     font-style: normal;
     src: url(/assets/mfred.fe7e7efe.woff2) format("woff2"),url(/assets/mfred.76b12196.woff) format("woff")
 }
 
 @font-face {
     font-display: swap;
-    font-family: 'Roboto', sans-serif;;
+    font-family: "Roboto", sans-serif;;
     font-style: normal;
     font-weight: 400;
     src: url(/assets/helvetica-neue.cd7c92d0.woff2) format("woff2"),url(/assets/helvetica-neue.fb13112e.woff) format("woff")
@@ -235,7 +235,7 @@ body.loaded {
 }
 
 .about__title {
-    font: 3rem 'Roboto', sans-serif;
+    font: 3rem "Roboto", sans-serif;
     left: 10rem;
     letter-spacing: .1rem;
     overflow: hidden;
@@ -882,7 +882,7 @@ body.loaded {
 }
 
 .home__link {
-    font: 2.4rem 'Roboto', sans-serif;;
+    font: 2.4rem "Roboto", sans-serif;;
     letter-spacing: .1rem;
     margin-top: 1rem;
     position: absolute;
@@ -911,7 +911,7 @@ body.loaded {
     z-index: 1
 }
 
-.project#gainbridge,.project#mta {
+.project#BIM,.project#ASD {
     color: #fff
 }
 
