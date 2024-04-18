@@ -219,7 +219,7 @@ body.loaded {
     font-display: swap;
     font-family: "Roboto", sans-serif;;
     font-style: normal;
-    src: url(/assets/mfred.fe7e7efe.woff2) format("woff2"),url(/assets/mfred.76b12196.woff) format("woff")
+    src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
 }
 
 @font-face {
@@ -227,7 +227,7 @@ body.loaded {
     font-family: "Roboto", sans-serif;;
     font-style: normal;
     font-weight: 400;
-    src: url(/assets/helvetica-neue.cd7c92d0.woff2) format("woff2"),url(/assets/helvetica-neue.fb13112e.woff) format("woff")
+    src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
 }
 
 .about {
