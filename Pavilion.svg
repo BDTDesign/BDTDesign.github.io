@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4750 1207">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 398px;
+        font-weight: 800;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <g id="eOfEMAXxKZv1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <text class="cls-1" transform="translate(71.06 719.39)"><tspan class="cls-2" x="0" y="0">P</tspan><tspan class="cls-3" x="253.61" y="0">A</tspan><tspan x="541.22" y="0">VILION</tspan></text>
+  </g>
+</svg>
