@@ -197,7 +197,7 @@ html {
 body {
     background: #fff;
     color: #000;
-    font-family: "Roboto", sans-serif;;
+    font-family: 'Roboto', sans-serif;;
     height: var(--100vh);
     opacity: 0;
     overflow: hidden;
@@ -217,14 +217,14 @@ body.loaded {
 
 @font-face {
     font-display: swap;
-    font-family: "Roboto", sans-serif;;
+    font-family: 'Roboto', sans-serif;;
     font-style: normal;
     src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
-    font-family: "Roboto", sans-serif;;
+    font-family: 'Roboto', sans-serif;;
     font-style: normal;
     font-weight: 400;
     src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
@@ -235,7 +235,7 @@ body.loaded {
 }
 
 .about__title {
-    font: 3rem "Roboto", sans-serif;
+    font: 3rem 'Roboto', sans-serif;
     left: 10rem;
     letter-spacing: .1rem;
     overflow: hidden;
