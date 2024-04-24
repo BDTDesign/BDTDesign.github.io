@@ -8,7 +8,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: "Roboto", sans-serif;
+    font: 'Roboto', sans-serif;
     vertical-align: baseline
 }
 
@@ -31,7 +31,7 @@ button {
     border: none;
     color: inherit;
     cursor: pointer;
-    font: "Roboto", sans-serif;;
+    font: 'Roboto', sans-serif;;
     outline: none;
     padding: 0
 }
@@ -911,8 +911,8 @@ body.loaded {
     z-index: 1
 }
 
-.project#BIM,.project#ASD {
-    color: #fff
+.project#BIM,.project#ASD,.project#TTT,.project#Cascade,.project#RuralEscape,.project#Pavilion,.project#Grasshopper {
+    color: #ffffff
 }
 
 @media (max-width: 768px) {
@@ -938,7 +938,7 @@ body.loaded {
 
 .project__close {
     align-items: center;
-    color: #fff;
+    color: #ffffff;
     display: flex;
     font-size: 0;
     justify-content: center;
