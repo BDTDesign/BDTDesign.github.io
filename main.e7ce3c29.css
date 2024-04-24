@@ -33,7 +33,7 @@ body {
 button {
     background: none;
     border: none;
-    color: inherit;
+    color: black;
     cursor: pointer;
     font: 'Roboto', sans-serif;;
     outline: none;
