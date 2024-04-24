@@ -29,7 +29,7 @@ body {
 button {
     background: none;
     border: none;
-    color: #fff;
+    color: inherit;
     cursor: pointer;
     font: 'Roboto', sans-serif;;
     outline: none;
@@ -882,7 +882,7 @@ body.loaded {
 }
 
 .home__link {
-    font: 2.4rem "Roboto", sans-serif;;
+    font: 2.4rem 'Roboto', sans-serif;;
     letter-spacing: .1rem;
     margin-top: 1rem;
     position: absolute;
