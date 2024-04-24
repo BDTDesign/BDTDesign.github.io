@@ -199,8 +199,8 @@ html {
 }
 
 body {
-    background: #000;
-    color: #fff;
+    background: #fff;
+    color: #000;
     font-family: 'Roboto', sans-serif;
     height: var(--100vh);
     opacity: 0;
