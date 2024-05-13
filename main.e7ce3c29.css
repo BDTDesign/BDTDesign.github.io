@@ -220,15 +220,13 @@ body.loaded {
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Roboto', sans-serif;;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Roboto', sans-serif;;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     src: url(Roboto-Regular.ttf) format("truetype"),url(Roboto-Regular.ttf) format("truetype")
@@ -310,7 +308,7 @@ body.loaded {
 }
 
 .about__content h1 {
-    font: 10rem 'Roboto', sans-serif;;
+    font: 10rem 'Roboto', sans-serif;
     letter-spacing: -.05rem;
     line-height: 1;
     margin: 0 auto 2.5rem;
