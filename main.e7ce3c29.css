@@ -353,7 +353,7 @@ body.loaded {
 
 .home {
     z-index: 2
-    background-image: url('favicon-32x32.png');
+    background-image: data-src="favicon-32x32.png";
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
